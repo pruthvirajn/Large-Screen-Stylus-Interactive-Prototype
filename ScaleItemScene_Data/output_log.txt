@@ -1,0 +1,52 @@
+Initialize engine version: 4.5.0f6 (fd4616464986)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 5000 (ID=0xa26)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Pruthvi\Documents\Rehab\ScaleItemScene_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Pruthvi\Documents\Rehab\ScaleItemScene_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Pruthvi\Documents\Rehab\ScaleItemScene_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Pruthvi\Documents\Rehab\ScaleItemScene_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Pruthvi\Documents\Rehab\ScaleItemScene_Data\Managed\libpxcclr.unity.dll (this message is harmless)
+Loading C:\Users\Pruthvi\Documents\Rehab\ScaleItemScene_Data\Managed\libpxcclr.unity.dll into Unity Child Domain
+- Completed reload, in  0.049 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\Pruthvi\Documents\Rehab\ScaleItemScene_Data\Managed\System.Core.dll (this message is harmless)
+Sense Manager Object not found and was added automatically
+ 
+(Filename: C:/BuildAgent/work/aeedb04a1292f85a/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Platform assembly: C:\Users\Pruthvi\Documents\Rehab\ScaleItemScene_Data\Managed\System.dll (this message is harmless)
+HandDetected
+ 
+(Filename: C:/BuildAgent/work/aeedb04a1292f85a/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+scaleDownUnit
+ 
+(Filename: C:/BuildAgent/work/aeedb04a1292f85a/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+scaleUpUnit
+ 
+(Filename: C:/BuildAgent/work/aeedb04a1292f85a/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+scaleDownUnit
+ 
+(Filename: C:/BuildAgent/work/aeedb04a1292f85a/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+scaleUpUnit
+ 
+(Filename: C:/BuildAgent/work/aeedb04a1292f85a/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+scaleDownUnit
+ 
+(Filename: C:/BuildAgent/work/aeedb04a1292f85a/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+HandLost
+ 
+(Filename: C:/BuildAgent/work/aeedb04a1292f85a/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
